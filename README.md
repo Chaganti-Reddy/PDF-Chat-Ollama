@@ -78,4 +78,4 @@ The supported extensions are:
 
 ## Credits
 
-This code is generated from the Pdf-Chat project by [PromptEngineer48](https://github.com/PromptEngineer48)
+This code is learned from the Pdf-Chat project by [PromptEngineer48](https://github.com/PromptEngineer48)
